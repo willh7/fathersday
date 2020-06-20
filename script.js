@@ -17,7 +17,7 @@ function draw() {
 		if(frameCount%8 == 0) {
 			balloons.push(new balloon());
 		}
-		if(frameCount == 300) {
+		if(frameCount == 1000) {
 			b = false;
 		}
 		for(var i = 0; i < balloons.length; i++) {
