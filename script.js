@@ -67,7 +67,7 @@ function draw() {
 				pop();
 				push();
 				fill(0,255,0);
-				text("Father", width/2 - width/23.1407407, height/2 + height/6);
+				text("Fathers", width/2 + width/23.1407407, height/2 + height/6);
 				pop();
 			}
 			text("Happy Mothers Day!", width/2, height/2);
